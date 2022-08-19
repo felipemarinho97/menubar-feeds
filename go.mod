@@ -1,4 +1,4 @@
-module github.com/felipemarinho97/go-reader
+module github.com/felipemarinho97/menubar-feeds
 
 go 1.15
 
